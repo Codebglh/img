@@ -1,0 +1,121 @@
+{
+    "platformlist": [
+        {
+            "name": "CCTV直播",
+            "icon": "",
+            "url": "http://tv.cctv.com/live/cctv5/"
+        }
+        ,
+        {
+            "name": "爱奇艺",
+            "icon": "爱奇艺",
+            "canvip": 1,
+            "url": "http://www.iqiyi.com/"
+        },
+        {
+            "name": "腾讯视频",
+            "icon": "腾讯",
+            "canvip": 1,
+            "url": "https://v.qq.com/"
+        },{
+            "name": "芒果",
+            "icon": "芒果",
+            "canvip": 1,
+            "url": "https://www.mgtv.com/"
+        }, {
+            "name": "优酷",
+            "icon": "优酷",
+            "canvip": 1,
+            "url": "https://www.youku.com/"
+        }
+        , {
+            "name": "bilibili",
+            "icon": "bilibili",
+            "canvip": 0,
+            "url": "https://www.bilibili.com/"
+        }, {
+            "name": "黑猫动漫",
+            "icon": "黑猫动漫",
+            "url": "https://www.heimao.tv/"
+        }, {
+            "name": "美剧网",
+            "icon": "美剧网",
+            "url": "https://91mjw.com/"
+        },
+        {
+            "name": "黑鹰",
+            "icon": "黑鹰",
+            "url": "https://www.heiyingcn.com/"
+        },
+        {
+            "name": "电影天堂",
+            "icon": "电影天堂",
+            "url": "http://btbtdy1.com/"
+        }, {
+            "name": "新视觉影院",
+            "icon": "4080",
+            "url": "http://www.yy3080.com/"
+        }, {
+            "name": "第一影院",
+            "icon": "4080",
+            "url": "http://www.d1dy.com/"
+        },{
+            "name": "音乐破解",
+            "icon": "",
+            "url": "https://music.sonimei.cn/"
+        }
+        , {
+            "name": "历史记录",
+            "icon": "",
+            "url": "history"
+        }
+        , {
+            "name": "更新日志",
+            "icon": "",
+            "url": "https://github.com/iodefog/VipVideo/blob/master/README.md"
+        }
+    ],
+    
+    "list": [
+        {
+            "name": "原地址-（提示：本软件免费无广告,不要花钱购买）",
+            "url": ""
+        },
+        {
+            "name": "5月-2",
+            "url": "http://api.662820.com/xnflv/index.php?url="
+        },
+        {
+            "name": "5月-19",
+            "url": "http://api.kltvv.top/api/ap.php?u="
+        },
+        {
+            "name": "5月-22",
+            "url": "https://apiv.ga/magnet/"
+        },
+        {
+            "name": "5月-7",
+            "url": "http://api.xfsub.com/index.php?url="
+        },
+        {
+            "name":"8",
+            "url":"http://api.30pan.com/api/?url="
+        },
+        {
+            "name": "5月-3",
+            "url": "http://aikan-tv.com/?url="
+        },
+        {
+            "name":"高端解析",
+            "url" :"http://jqaaa.com/jq3/?url="
+        },
+        {
+            "name": "腾讯可用，线路三(云解析)",
+            "url": "http://api.baiyug.cn/vip/?url="
+        },
+        {
+            "name": "线路四",
+            "url": "http://jiexi.071811.cc/jx2.php?url="
+        }
+    ]
+}
